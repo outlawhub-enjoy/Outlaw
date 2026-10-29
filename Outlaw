@@ -12,6 +12,10 @@ local Games = {
     [105531756926941] = "https://raw.githubusercontent.com/outlawhub-enjoy/TouchFootball/refs/heads/main/Outlaw",
     [130754361889730] = "https://raw.githubusercontent.com/outlawhub-enjoy/TouchFootball/refs/heads/main/Outlaw",
     [18738477182] = "https://raw.githubusercontent.com/outlawhub-enjoy/TouchFootball/refs/heads/main/Outlaw",
+    [7015341259] = "https://raw.githubusercontent.com/outlawhub-enjoy/Touchline/refs/heads/main/Outlaw",
+    [92307946911423] = "https://raw.githubusercontent.com/outlawhub-enjoy/Touchline/refs/heads/main/Outlaw",
+    [95144714051153] = "https://raw.githubusercontent.com/outlawhub-enjoy/Touchline/refs/heads/main/Outlaw",
+    [99265427850921] = "https://raw.githubusercontent.com/outlawhub-enjoy/Touchline/refs/heads/main/Outlaw",
 
 
 }
